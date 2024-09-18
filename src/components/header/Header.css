@@ -1,0 +1,24 @@
+.ant-form-item {
+  margin-inline-end: 0px !important;
+}
+
+.links {
+  padding-bottom: 1px;
+  border-bottom: 2px solid transparent;
+}
+
+.links:hover {
+  border-bottom: 2px solid rgb(34 197 94);
+  color: rgb(34 197 94);
+}
+
+.links .active {
+  padding-bottom: 3.5px;
+  border-bottom: 2px solid #222;
+}
+
+.links .active:hover {
+  padding-bottom: 1px;
+  border-bottom: rgb(34 197 94);
+  color: rgb(34 197 94);
+}
